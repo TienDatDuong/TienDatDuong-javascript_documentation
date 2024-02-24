@@ -1,0 +1,1 @@
+<template>đây là: javascript</template>
